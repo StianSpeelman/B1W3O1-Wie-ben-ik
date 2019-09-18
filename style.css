@@ -1,0 +1,17 @@
+img.stian{
+    width: 200px;
+    float: right;
+    border: 1px solid black;
+    margin-right: 40px;
+    border-radius: 80px;
+    padding: 10px;
+}
+img.schoollogo{
+    width: 200px;
+    float: left;
+    padding: 4px;
+}
+body{
+    background-color: lightgrey;
+    background: -webkit-linear-gradient(left, grey, grey 30%, white 30%, white)
+}
